@@ -1,0 +1,26 @@
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    font-size: 16px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+  }
+  
+  li a {
+    display: block;
+    width: 300px;
+    background-color: #f7d577;
+    padding: 8px 16px;
+  }
+  li a:hover{
+      background-color: #8b0000;
+      color: rgb(255, 255, 255);
+  }
+
+  h1{
+color:indigo;
+  }
+
+  body{
+      background-color:azure;
+  }
